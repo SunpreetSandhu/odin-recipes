@@ -1,0 +1,14 @@
+* {
+  background-color: aqua;
+}
+
+.heading {
+  color: darkorchid;
+  font-size: 30px;
+  text-align: center;
+}
+
+.list {
+  color: darkorange;
+  font-weight: bold;
+}
